@@ -1,0 +1,7 @@
+Q2. When should one use Maven?
+ A2. Maven is one type of build tool.build tool is what take care of building process.
+       it generates the source code,compile the source code and package the final compiled 
+       file in JAR file and also installed that JAR file in central repo,org repo and local repo m2 folder.
+       so in larger projects,it's very tough to keep track of what needs to be built and in what sequence and
+       also what dependies require during project.So using build tool like maven will reduce the devloper work.
+       and build process become more consistent

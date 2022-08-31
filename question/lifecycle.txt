@@ -1,0 +1,11 @@
+Q5. What are the different phases of the default life cycle?
+A5. Total 8 phases are there in life cycle
+
+1) validate-pom.xml file present or not and structure of project is okay or not
+2)compile- compile all the source code and downloads the JAR files
+3) test-compile - compile any test case
+4) test: it will show how many test cases running succesfully
+5)package: bundle our final source code in JAR file and store in target folder.
+6)install: store this JAR file in .m2 folder of local repo.
+7)deploy: after this store this JAR file to central repo.
+8) clean: delete all the files that required before in build process.

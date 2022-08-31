@@ -1,0 +1,6 @@
+Q3. Explain the core concepts of Maven.
+A3. Maven is a build tool and project managment tool based on POM (project object model).
+       Maven used to build project  and dependencies.
+       Dependency means depends on someone for some specified work.
+      These project dependencies are collectively mentioned in the 
+      pom. xml file.

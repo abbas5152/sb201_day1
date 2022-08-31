@@ -1,0 +1,9 @@
+Q6.What are the different types of Maven repositories? Discuss.
+A6. Total three types of repositories is there
+       1)Local
+        2)Remote or organisation
+       3)Central
+
+1)Local: it will be store in devloper's local pc in m2 folder.
+2)Remote: this repo is maintain by organisation only store JAR files ,share plugins etc.
+3)Central:It is created by maven itself.in this repo we can get all the plugins,architech etc.

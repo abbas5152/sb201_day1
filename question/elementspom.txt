@@ -1,0 +1,6 @@
+Q4. What elements are used for creating a pom.xml file?
+A4.  1) project
+        2)modelVersion
+        3)groupId
+        4) artifactId
+         5) version
